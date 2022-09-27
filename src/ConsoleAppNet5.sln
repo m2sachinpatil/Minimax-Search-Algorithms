@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppNet5", "ConsoleAppNet5.csproj", "{47AA9C98-C5AA-4B81-B53A-3A3E017D4BA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppNet5_Test", "..\ConsoleAppNet5_Test\ConsoleAppNet5_Test.csproj", "{2CE75A5C-95CC-4346-9952-B64164CE9644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47AA9C98-C5AA-4B81-B53A-3A3E017D4BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AA9C98-C5AA-4B81-B53A-3A3E017D4BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AA9C98-C5AA-4B81-B53A-3A3E017D4BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AA9C98-C5AA-4B81-B53A-3A3E017D4BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE75A5C-95CC-4346-9952-B64164CE9644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE75A5C-95CC-4346-9952-B64164CE9644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE75A5C-95CC-4346-9952-B64164CE9644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE75A5C-95CC-4346-9952-B64164CE9644}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {323820DA-D9C5-4519-A3F5-461AC67A883F}
+	EndGlobalSection
+EndGlobal
